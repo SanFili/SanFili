@@ -11,7 +11,9 @@ ______
 - 📫 How to reach me: 
   + my email: filimonova.alexandra@yandex.ru
   + my telegram: @sancta_sanctorum
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I've been snowboarding since I was 13, but I'm still bad at it 😄
+
+One time there will be my portfolio website, but now only **[resume](https://disk.yandex.ru/i/WnRCj9duEp7IUA)**
 
 # ![SanFili's github stats](https://github-readme-stats.vercel.app/api?username=SanFili&theme=omni&show_icons=true)<br>
 **<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanFili&theme=radical&line_height=10&hide_langs_below=1&layout=compact" />**
