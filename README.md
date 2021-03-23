@@ -5,7 +5,7 @@ ______
 
 - 🔭 I’m currently working on **JavaScript, HTML and CSS**
 - 🌱 I’m currently learning **React**
-- ✨ I want to learn **TypeScript** and **Anime.js**
+- ✨ I want to learn **TypeScript** and **Anime.js** in the near future
 - ⚛️ I'm currently studying nuclear power at Moscow Power Engineering Institute
 - 💬 Ask me about my projects or anything else ✌️
 - 📫 How to reach me: 
