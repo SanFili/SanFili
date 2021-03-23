@@ -9,8 +9,8 @@ ______
 - ⚛️ I'm currently studying nuclear power at Moscow Power Engineering Institute
 - 💬 Ask me about my projects or anything else ✌️
 - 📫 How to reach me: 
- + my email: filimonova.alexandra@yandex.ru
- + my telegram: @sancta_sanctorum
+  + my email: filimonova.alexandra@yandex.ru
+  + my telegram: @sancta_sanctorum
 - ⚡ Fun fact: 
 
 # ![SanFili's github stats](https://github-readme-stats.vercel.app/api?username=SanFili&theme=omni&show_icons=true)<br>
