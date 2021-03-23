@@ -13,9 +13,11 @@ ______
   + my telegram: @sancta_sanctorum
 - ⚡ Fun fact: I've been snowboarding since I was 13, but I'm still bad at it 😄
 
+-----
+
 One time there will be my portfolio website, but now only **[resume](https://docviewer.yandex.ru/view/80367351/?*=1ypslG%2FV30Jgj3TroJV2R0c3Z%2Bl7InVybCI6InlhLWRpc2stcHVibGljOi8vN1JhbHhyc3FNK2dEUi9iZDViS0J1MDF5MUc5ckhtdlJuSlF4aGZSd3R0SERXNVN1Y3hVYnZIbEZPakNieTBSOXEvSjZicG1SeU9Kb25UM1ZvWG5EYWc9PSIsInRpdGxlIjoi0YDQtdC30Y7QvNC1INCk0LjQu9C40LzQvtC90L7QstCwINCQ0LvQtdC60YHQsNC90LTRgNCwLnBkZiIsIm5vaWZyYW1lIjpmYWxzZSwidWlkIjoiODAzNjczNTEiLCJ0cyI6MTYxNjUwMzExMjkzOCwieXUiOiIxOTMwNzc5MzMxNTcwMTgxNzM4In0%3D)**
 
-# ![SanFili's github stats](https://github-readme-stats.vercel.app/api?username=SanFili&theme=omni&show_icons=true)<br>
+# ![SanFili's github stats](https://github-readme-stats.vercel.app/api?username=SanFili&hide=contribs,prs&theme=omni&show_icons=true)<br>
 **<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanFili&theme=radical&line_height=10&hide_langs_below=1&layout=compact" />**
 
 
